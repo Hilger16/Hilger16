@@ -4,9 +4,12 @@ Olá!! Eu sou o Matheus Hilger, dev em progresso!
   <a href="https://github.com/Hilger16">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Hilger16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilger16&layout=compact" />
-</div>
+  </div>
 
-   ![Snake animation](https://github.com/Hilger16/Hilger16/blob/output/github-contribution-grid-snake.svg)
+<div>
+![Snake animation](https://github.com/Hilger16/Hilger16/blob/output/github-contribution-grid-snake.svg)
+  </div>
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
